@@ -302,6 +302,7 @@ nav {
 }
 
 .language__name {
+    font-weight: 700;
     position: absolute;
     bottom: 0;
     transform: scale(0);
